@@ -1,52 +1,52 @@
-# Diagnosis Penyakit Menggunakan Multilayer Perceptron (MLP)
+# Disease Diagnosis Using Multilayer Perceptron (MLP)
 
-## Deskripsi Project
-Project ini merupakan implementasi algoritma **Multilayer Perceptron (MLP)** untuk melakukan diagnosis penyakit menggunakan teknik Machine Learning.
+## Project Description
+This project implements the Multilayer Perceptron (MLP) algorithm to diagnose diseases using machine learning techniques.
 
-Model dibangun menggunakan data kesehatan/pasien untuk melakukan klasifikasi berdasarkan fitur-fitur yang tersedia pada dataset.
+The model is built using health/patient data to perform classification based on the features available in the dataset.
 
-Project ini dibuat sebagai tugas kelompok mata kuliah / project pembelajaran Machine Learning.
+This project was created as a group assignment for a Machine Learning course.
 
 ---
 
-## Teknologi yang Digunakan
+## Technologies Used
 
 - Python
 - Jupyter Notebook
 - Scikit-learn
 - Pandas
-- NumPy
+- NumberPy
 - Matplotlib
-- Seaborn
+- Born in the Sea
 
 ---
 
-## Algoritma yang Digunakan
+## Algorithms Used
 
-Model utama yang digunakan adalah:
+The main models used are:
 
 - Multilayer Perceptron (MLP)
-  - Hidden Layer Neural Network
-  - Backpropagation
-  - Aktivasi non-linear
+- Hidden Layer Neural Network
+- Backpropagation
+- Non-linear Activation
 
 ---
 
-## Tahapan Project
+## Project Stages
 
 1. Data Loading
 2. Data Preprocessing
 3. Exploratory Data Analysis (EDA)
 4. Data Splitting
-5. Training Model MLP
-6. Evaluasi Model
-7. Visualisasi Hasil
+5. MLP Model Training
+6. Model Evaluation
+7. Results Visualization
 
 ---
 
-## Struktur Repository
+## Repository Structure
 
-```bash
+``` party
 .
 ├── MLP_Diagnosis_Penyakit.ipynb
 ├── README.md
@@ -55,48 +55,48 @@ Model utama yang digunakan adalah:
 
 ---
 
-## Cara Menjalankan Project
+## Project Outline Method
 
 ### 1. Clone Repository
 
-```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
+``` bash
+git clone https://github.com/USERNAME/REPO-NAME.git
 ```
 
-### 2. Masuk ke Folder Project
+### 2. Enter Project Folder
 
-```bash
-cd NAMA-REPO
+``` bash
+cd REPO-NAME
 ```
 
-### 3. Install Dependency
+### 3. Install Dependencies
 
-```bash
+``` bash
 pip install -r requirements.txt
 ```
 
-### 4. Jalankan Jupyter Notebook
+### 4. Run Jupyter Notebook
 
-```bash
+``` bash
 jupyter notebook
 ```
 
 ---
 
-## Hasil Evaluasi
+## Evaluation Results
 
-Model dievaluasi menggunakan beberapa metrik seperti:
+The model was evaluated using several metrics such as:
 
 - Accuracy
 - Confusion Matrix
-- Classification Report
+- Report Classification
 
 ---
 
-## Tujuan Project
+## Project Objectives
 
-- Mempelajari implementasi Neural Network sederhana
-- Memahami proses klasifikasi data kesehatan
-- Menggunakan MLP untuk prediksi diagnosis penyakit
+- Learn a simple Neural Network implementation
+- Understand the process of health data classification
+- Use MLP to predict disease diagnoses
 
 ---
